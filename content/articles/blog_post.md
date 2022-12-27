@@ -1,6 +1,7 @@
 +++
 title = "Hello, Bryan!"
 date = 2020-01-22
+default = true
 +++
 
 # My First Post
